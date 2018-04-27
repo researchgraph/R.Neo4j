@@ -1,7 +1,7 @@
-Neo4j 3.0.6
+Neo4j 3.3.5-SNAPSHOT
 =======================================
 
-Welcome to Neo4j release 3.0.6, a high-performance graph database.
+Welcome to Neo4j release 3.3.5-SNAPSHOT, a high-performance graph database.
 This is the community distribution of Neo4j, including everything you need to
 start building applications that can model, persist and explore graph-like data.
 
@@ -24,7 +24,7 @@ Here in the installation directory, you'll find:
 Make it go
 ----------
 
-For full instructions, see http://neo4j.com/docs/operations-manual/current/#deployment
+For full instructions, see https://neo4j.com/docs/operations-manual/current/installation/
 
 To get started with Neo4j, let's start the server and take a
 look at the web interface ...
@@ -42,9 +42,9 @@ look at the web interface ...
 Learn more
 ----------
 
-* Neo4j Home: http://neo4j.com/
-* Getting Started: http://neo4j.com/docs/developer-manual/current/#introduction
-* Neo4j Documentation: http://neo4j.com/docs/
+* Neo4j Home: https://neo4j.com/
+* Getting Started: https://neo4j.com/docs/developer-manual/current/introduction/
+* Neo4j Documentation: https://neo4j.com/docs/
 
 License(s)
 ----------
